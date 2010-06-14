@@ -1,7 +1,7 @@
 package kraus;
 
 /**
- * Die Kontoklasse mit dem eigentlichen Kontostand, im Konstruktor wird der Kontostand auf 1000 gesetzt.
+ * Die Kontoklasse mit dem eigentlichen Kontostand, im wird der Kontostand auf 1000 gesetzt.
  * @author Christian Kraus
  * @version 2010-04-11
  */
