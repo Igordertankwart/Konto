@@ -6,6 +6,7 @@ package kraus;
  * @version 2010-04-11
  */
 public class Konto {
+	private int stand;
 	private int kontostand;
 	/**
 	 * Setzt den Kontostand defaultmäßig auf 1000.
