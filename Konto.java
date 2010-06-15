@@ -8,10 +8,10 @@ package kraus;
 public class Konto {
 	private int stand;
 	/**
-	 * Setzt den Kontostand defaultmäßig auf 1000.
+	 * Setzt den Kontostand defaultmï¿½ï¿½ig auf 1000.
 	 */
 	public Konto () {
-		this.stand=10;
+		this.stand=9999;
 	}
 	public void setKonto (int stand) {
 		this.stand=stand;
